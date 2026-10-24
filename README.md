@@ -12,7 +12,7 @@ Designer who builds. Roaster who ships. Bali, Indonesia.
 - [Saku Samping](https://keuangan-henny.vercel.app/) — a finance dashboard I built for my wife.
 - [BO\_G](https://bo-g.vercel.app/) — investor-slot bookkeeping for a beauty business.
 - LOJA-62 — point of sale for F&B and coffee shops. The one closest to revenue.
-- repo-health-audit — a skill that scores any repo the way a buyer would. *(Opening to public soon.)*
+- [repo-health-audit](https://github.com/nalakara/repo-health-audit) — a skill that scores any repo the way a buyer would.
 
 **Coffee** — founder and roaster of ORDO Roastery; national judge, Indonesia Coffee Roasting Competition (Bandung, 2017).
 
