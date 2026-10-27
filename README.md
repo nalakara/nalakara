@@ -1,8 +1,10 @@
-# Yudhan Sebastian
+# Hi, Im Yudhan Sebastian
 
-Designer who builds. Roaster who ships. Bali, Indonesia.
+AI-Assisted Product Builder & Creative Technologist
 
-20 years as a creative manager in hospitality, then out — by choice, a little early, under war-pressure on Bali tourism. Now running three bets: restarting my coffee roastery, building software that earns, and working remotely on my own terms.
+Building practical software products and developer tools at the intersection of design, AI, and systems thinking.
+
+Focus: AI-assisted development · Product engineering · Developer tools · Practical software systems
 
 ## What I make
 
