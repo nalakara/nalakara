@@ -1,8 +1,8 @@
-# Hi, Im Yudhan Sebastian
+# Hi, I'm Yudhan Sebastian
 
 AI-Assisted Product Builder & Creative Technologist
 
-Building practical software products and developer tools at the intersection of design, AI, and systems thinking.
+Building practical software from real-world problems, combining design thinking, AI-assisted development, and systems engineering.
 
 Focus: AI-assisted development · Product engineering · Developer tools · Practical software systems
 
